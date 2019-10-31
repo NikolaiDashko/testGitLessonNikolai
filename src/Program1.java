@@ -13,5 +13,6 @@ public class Program1 {
     double c = sc.nextDouble();
     double p = (a + b + c)/2;
     System.out.println("Площадь треугольника равна : " + Math.sqrt(p * (p - a) * (p - b) * (p - c)));
+    sc.close();
 }
 }

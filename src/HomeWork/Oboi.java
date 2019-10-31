@@ -18,6 +18,7 @@ public class Oboi {
 				}
 			}
 			System.out.println();
+			System.out.println("Some new changes");
 		}
 
 		sc.close();

@@ -1,2 +1,0 @@
-# testGitLessonNikolai
-Отслеживание изменений

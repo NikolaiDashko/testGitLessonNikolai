@@ -6,7 +6,7 @@ public class Vozvrat_Maximum {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		int sizeOfArray; 					// переменная для установки массива
+		int sizeOfArray; 					//  установка массива
 		
 		System.out.println("Введите число для установки размера массива:");
 		sizeOfArray = scanner.nextInt();

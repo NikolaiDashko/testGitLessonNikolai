@@ -8,7 +8,7 @@ public class Pryamougolnik {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Введите ширину");
 		int a = sc.nextInt();
-		System.out.println("Введите высоту");
+		System.out.println("Введите высоту-");
 		int b = sc.nextInt();
 		sc.close();
 		System.out.println(met(a,b));

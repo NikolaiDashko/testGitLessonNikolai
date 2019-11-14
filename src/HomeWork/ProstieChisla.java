@@ -2,7 +2,7 @@ package HomeWork;
 import java.util.Scanner;
 public class ProstieChisla {
 	public static void main(String[] args) {
-	    System.out.println("Введите любое положительное число: ");
+	    System.out.println("Введите любое положительное число вот сюда: ");
 	    Scanner in = new Scanner(System.in);
 	    int input = in.nextInt();
 	    boolean b = true;

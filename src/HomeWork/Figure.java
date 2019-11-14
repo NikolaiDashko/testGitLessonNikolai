@@ -8,7 +8,7 @@ public class Figure {
 
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println("Введите число для максимальной высоты фигуры: ");
+		System.out.println("Введите число для максимальнной высоты фигуры: ");
 
 		int height = sc.nextInt();
 		int count = 1;
